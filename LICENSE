@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2018 Marcel Braghetto
+Copyright (c) 2018 Marcel Braghetto (Kotlin port of the C# version)
+Copyright (c) 2014 Oded Welgreen (original C# version)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
